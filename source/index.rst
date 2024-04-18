@@ -9,7 +9,7 @@ AXera-Pi Zero
 .. toctree::
   :maxdepth: 1
   :numbered:
-  :caption: 目录
+  :caption: Catalogue
   :name: 123
 
   doc_update_info.md

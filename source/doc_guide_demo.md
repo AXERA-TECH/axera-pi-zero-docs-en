@@ -3,8 +3,10 @@
 ## Usage of FRTDemo
 
 1. Use Type-C to connect Aixinpai Zero to the computer. There are two ways to enter the terminal.
-<p style="text-indent:2em;">a. Enter directly through the serial port</p>
-<p style="text-indent:2em;">b. Via <a href="https://axera-pi-zero-docs-cn.readthedocs.io/zh-cn/latest/doc_guide_faq.html"> Modify the IP</a> and use a network cable to connect the device to the computer</p>
+	<p style="text-indent:2em;">a. Enter directly through the serial port</p>
+	<p style="text-indent:2em;">b. Via <a href="https://axera-pi-zero-docs-cn.readthedocs.io/zh-cn/latest/doc_guide_faq.html"> Modify the IP</a> and use a network cable to connect the device to the computer</p>
+	
+	<font color="red"><b>If you want to play video streams, you must change the IP before viewing them</font></b>
 
 2. Open putty, enter the serial port/IP corresponding to the device, and click Open<br />
 
@@ -16,7 +18,7 @@ Password: 123456<br />
 4. Enter the command to enter FRTDemo<br />
 ![](./media/demo/demo_1.jpg)
 
-5. Enter the command to start Demo<br />
+5. Enter the command to start Demo<font color="red">(the parameter after -s is the number 1)</font><br />
 ![](./media/demo/demo_2.jpg)
 
 6. Open the web page and enter the URL in the running content into the URL box
@@ -27,7 +29,7 @@ Password: 123456<br />
 
 If you need the FRTDemo source code, please click <a href="https://github.com/AXERA-TECH/ax620q_bsp_sdk">here</a> to view<br />
 <br />
-<br />
+
 
 ## NFS mount
 

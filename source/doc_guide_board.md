@@ -66,18 +66,21 @@
 
 3.Same as the 4th and 5th points of switching 4G mode.<br />
 
-4.Download the WIFI driver and wait for a while.<br />
+4.Manually pull up the wifi GPIO port.<br />
+![](./media/board/wifi/wifi_7.png)
+
+5.Download the WIFI driver and wait for a while.<br />
 ![](./media/board/wifi/wifi_2.jpg)
 
-5.Enter the command. If the following pictures appear, the WiFi driver download is successful.<br />
+6.Enter the command. If the following pictures appear, the WiFi driver download is successful.<br />
 ![](./media/board/wifi/wifi_3.png)
 
 ![](./media/board/wifi/wifi_4.jpg)
 
-6.Manually pull up the WiFi network interface.<br />
+7.Manually pull up the WiFi network interface.<br />
 ![](./media/board/wifi/wifi_5.jpg)
 
-7.Confirm whether the WIFI network interface is successfully pulled up through the command.<br />
+8.Confirm whether the WIFI network interface is successfully pulled up through the command.<br />
 ![](./media/board/wifi/wifi_6.jpg)
 
 <font color="red"><b>When choosing a WiFi mode, only one of them can be selected, and two modes are not allowed to exist simultaneously.</font></b>

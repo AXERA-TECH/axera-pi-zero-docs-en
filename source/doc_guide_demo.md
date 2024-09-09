@@ -18,8 +18,12 @@ Password: 123456<br />
 4. Enter the command to enter FRTDemo<br />
 ![](./media/demo/demo_1.jpg)
 
-5. Enter the command to start Demo<font color="red">(the parameter after -s is the number 1)</font><br />
-![](./media/demo/demo_2.jpg)
+5. Enter the command to start Demo<font color="red">(the parameter after -s is the number)</font><br />
+	This command is used in SC450AI:
+	![](./media/demo/demo_2.jpg)
+
+	This command is used in SC200AI:
+	![](./media/demo/demo_5.png)
 
 6. Open the web page and enter the URL in the running content into the URL box
 ![](./media/demo/demo_3.jpg)

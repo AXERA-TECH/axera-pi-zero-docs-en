@@ -3,6 +3,9 @@
 **AXera_Pi Zero** adds 4G wireless communications board (referred to as: expansion board), supports 4G/WIFI/SD card.<br />
 ![](./media/board/board_1.png)
 
+The motherboard is connected to the extended board, as shown in the figure.<br />
+![](./media/board/board_5.png)
+
 <font size="5">Using different modes, the antenna installation position is also different. The specific connection position is shown in the figure.</font><br />
 ![](./media/board/board_2.jpg)
 
@@ -75,7 +78,7 @@
 6.Enter the command. If the following pictures appear, the WiFi driver download is successful.<br />
 ![](./media/board/wifi/wifi_3.png)
 
-![](./media/board/wifi/wifi_4.jpg)
+![](./media/board/wifi/wifi_4.png)
 
 7.Manually pull up the WiFi network interface.<br />
 ![](./media/board/wifi/wifi_5.jpg)

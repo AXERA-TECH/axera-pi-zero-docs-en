@@ -9,7 +9,7 @@
 	![](./media/FAQ/FAQ_7.png)
 
 3. Open putty, enter the serial port corresponding to the device, and click Open<br />
-	![](./media/FAQ/FAQ_2.jpg)
+	![](./media/FAQ/FAQ_2.png)
 
 4. After entering, enter the user password and enter the terminal (the password will not be displayed)<br />
 Username: root<br />
